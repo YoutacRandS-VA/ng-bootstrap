@@ -112,7 +112,7 @@
     "bootstrap-icons": "1.9.1",
     "conventional-changelog-cli": "^2.0.12",
     "coverage-istanbul-loader": "^3.0.3",
-    "ejs": "3.1.5",
+    "ejs": "3.1.10",
     "eslint": "^8.57.0",
     "eslint-config-prettier": "^9.0.0",
     "eslint-plugin-deprecation": "^2.0.0",
